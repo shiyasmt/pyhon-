@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shiyasmt
-- 👀 I’m interested in 
+- 👀 I’m interested in data analyst
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
